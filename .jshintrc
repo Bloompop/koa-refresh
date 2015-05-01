@@ -1,0 +1,20 @@
+{
+    "freeze": true,
+    "quotmark": true,
+    "undef": true,
+    "boss": true,
+    "eqnull": true,
+    "esnext": true,
+    "funcscope"    : false,
+    "loopfunc": false,
+    "noyield": true,
+    "shadow": true,
+    "sub": true,
+    "supernew": false,
+    "validthis": true,
+    "node": true,
+    "nonstandard": true,
+    "node": true,
+    "browserify": true,
+    "globals": {}
+}
